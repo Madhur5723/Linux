@@ -1,0 +1,3 @@
+cd= change directory
+cd ..=change to parent directory
+echo $OLD= Tells the directory which we previously using
