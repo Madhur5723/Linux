@@ -1,0 +1,7 @@
+/root=top of file system Admin
+/bin=Binaries and other executable codes
+/etc=system configuration files
+/home= personal directories of user
+/tmp=temporary space
+/usr/bin=user related programs 
+/sbin=system programs
