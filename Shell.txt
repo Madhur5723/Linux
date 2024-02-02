@@ -1,0 +1,2 @@
+Shell is the default interface of Linux.
+It is a program that accepts your commands and executes those commands
