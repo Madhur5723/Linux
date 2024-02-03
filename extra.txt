@@ -1,0 +1,20 @@
+CLI and GUI Interface
+
+GUI and CUI are two types of User Interfaces . GUI stands for Graphical User Interface while CUI stands for Character User Interface . GUI user interface is a type of user where user interacts with the computer using graphics .
+
+A command-line interface (CLI) is a text-based user interface (UI) used to run programs, manage computer files and interact with the computer.
+
+Absolute and Relative Path
+
+Absolute paths always start with the root directory and provide the full path to the file or directory. For example, the absolute path to the home directory of a user named "waqas" would be "/home/waqas"
+On the other hand, a relative path is a path to a file or directory that is relative to the current directorys eg cd fo2
+
+
+Users in Linux
+
+1)Regular User=Home directory cannot see in other user home directory
+2)Root User=Full access can see to anyone home directory ADMIN command used is sudo(identifies that it is the root user)
+
+
+
+

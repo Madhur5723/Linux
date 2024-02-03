@@ -1,0 +1,32 @@
+sudo apt-get update:
+Ensures your system has the latest information on available packages and their versions before installing or upgrading packages.
+
+sudo apt-get upgrade= 
+install available upgrades of all packages currently installed on the system from the sources configured via sources. list file.
+
+ls -R =
+tells what is inside the directory and what is inside directory content
+
+ls -a=
+shows all the hidden files
+
+touch .filename=
+creates a hidden files
+
+ls-lart=
+List files and folders in the current directory in long detailed format, sorted by modification date and time
+
+ls -la=
+to see long listing hidden output
+
+printf "hello"=print in terminal
+
+
+ps 
+list all process 
+
+ps -a=
+list all backgroud process
+
+kill
+shutdown the process

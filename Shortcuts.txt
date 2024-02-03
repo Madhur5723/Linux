@@ -1,3 +1,6 @@
 cd= change directory
 cd ..=change to parent directory
 echo $OLD= Tells the directory which we previously using
+mkdir=create new directory
+rmdir=remove directory
+rm -rf directory=Recursively removes directory

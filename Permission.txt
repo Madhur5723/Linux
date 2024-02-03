@@ -1,0 +1,10 @@
+r=Read
+w=Write
+x=Execute
+
+
+Permission Category
+u=user
+g=Group
+o=other
+a=All
