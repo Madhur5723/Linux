@@ -1,0 +1,13 @@
+echo "provide a option"
+echo "a to print date"
+echo "b to list scripts"
+echo "c to check current location"
+
+read choice
+
+case $choice in
+    a)date;;
+    b)ls;;
+    c)pwd;;
+    *)echo "invalid input"
+esac

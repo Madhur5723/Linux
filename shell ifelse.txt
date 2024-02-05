@@ -3,7 +3,9 @@ if [ "name"="Madhur" ]; then
    echo "From if statement"
 fi
 
+
 if else loop
+
 
 if [ "$name" = "hari" ]; then
    echo "If statement"
@@ -12,6 +14,7 @@ else
 fi
 
 if elif else 
+
 name="Madhur"
 
 if [ "$name" = "hari" ]; then

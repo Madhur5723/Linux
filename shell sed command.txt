@@ -1,0 +1,7 @@
+sed command is used to change what is inside the file
+syntax= sed "s(string)/oldword/newword" filename
+
+sed "s/madhur/hari" name.txt  //not save in original file
+
+sed -i "s/madhur/hari" name.txt  //saved in the original file
+
