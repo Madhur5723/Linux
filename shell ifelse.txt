@@ -1,0 +1,24 @@
+name="Madhur"
+if [ "name"="Madhur" ]; then
+   echo "From if statement"
+fi
+
+if else loop
+
+if [ "$name" = "hari" ]; then
+   echo "If statement"
+else
+   echo "From else loop"
+fi
+
+if elif else 
+name="Madhur"
+
+if [ "$name" = "hari" ]; then
+    echo "hi"
+elif [ "$name" = "Madhur" ]; then
+    echo "madhur from elif"
+else
+    echo "else from madhur"
+fi
+

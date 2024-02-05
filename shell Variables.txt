@@ -1,0 +1,8 @@
+echo "Hello World";
+name="Madhur"
+echo "Hi $name"
+
+
+name="Hari"
+echo "Hi $name"
+echo "Hi ${name} Shinde"

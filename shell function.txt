@@ -1,0 +1,11 @@
+
+function hello() {
+    echo "hello"
+    now
+}
+
+function now() {
+    echo "It is $(date +'%r')"
+}
+
+hello

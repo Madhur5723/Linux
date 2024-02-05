@@ -1,0 +1,2 @@
+read -p "Enter name:" user
+echo "username :$user" 

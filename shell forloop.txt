@@ -1,0 +1,15 @@
+1]
+for color  in  red blue green
+do 
+echo "color:$color"
+
+done
+
+2]
+colors="red blue green"
+for colors in $colors
+do 
+echo "colors: $colors"
+done
+
+
