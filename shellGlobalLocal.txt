@@ -1,0 +1,21 @@
+global variable
+hello() {
+    global=1
+}
+echo $global
+hello
+
+echo $global
+
+local variable
+
+fuction with arguments
+
+
+addition(){
+    local a=$1
+    local b=$2
+    let sum=$a+$b
+    echo "sum : $sum"
+}
+addition 1 2 
