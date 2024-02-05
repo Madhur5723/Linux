@@ -1,0 +1,5 @@
+BIOS
+MBR
+GRUB
+Kernal
+SystemB

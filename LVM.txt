@@ -1,0 +1,13 @@
+LVM
+
+It is used to manage volume and disk on the linux server 
+
+steps
+
+Install a new Hard Disk drive 
+Make a position to use it
+Designate physical volume 
+Manage Volume Groups
+Manage logical Volume
+Apply a file system
+Set amount point
